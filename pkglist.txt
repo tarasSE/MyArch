@@ -74,6 +74,7 @@ pacman
 patch
 pciutils
 pcmciautils
+pcurses
 perl
 pidgin
 pkg-config
