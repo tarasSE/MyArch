@@ -106,7 +106,6 @@ unrar
 unzip
 usbutils
 util-linux
-vi
 vim
 virtualbox
 virtualbox-guest-iso
