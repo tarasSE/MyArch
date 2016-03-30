@@ -25,6 +25,7 @@ file
 filesystem
 findutils
 firefox
+flashplugin
 flex
 garcon
 gawk
