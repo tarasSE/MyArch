@@ -63,6 +63,7 @@ man-pages
 mdadm
 mesa-demos
 nano
+nautilus
 netctl
 network-manager-applet
 networkmanager
