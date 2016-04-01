@@ -86,6 +86,7 @@ python
 qiv
 reiserfsprogs
 s-nail
+scala
 screenfetch
 scrot
 sdl2
