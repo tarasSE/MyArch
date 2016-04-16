@@ -30,6 +30,7 @@ flashplugin
 flex
 garcon
 gawk
+gcc-libs-multilib
 gedit
 gettext
 git
@@ -95,6 +96,7 @@ sed
 shadow
 skype
 slim
+steam
 sudo
 sysfsutils
 systemd-sysvcompat
