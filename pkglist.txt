@@ -51,6 +51,9 @@ iw
 jdk8-openjdk
 jfsutils
 less
+lib32-alsa-plugins
+lib32-curl
+lib32-nvidia-libgl
 libreoffice-still
 libtool
 licenses
