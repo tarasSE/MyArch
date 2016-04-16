@@ -30,7 +30,8 @@ flashplugin
 flex
 garcon
 gawk
-gcc-libs-multilib
+gcc
+gcc-libs
 gedit
 gettext
 git
@@ -51,9 +52,6 @@ iw
 jdk8-openjdk
 jfsutils
 less
-lib32-alsa-plugins
-lib32-curl
-lib32-nvidia-libgl
 libreoffice-still
 libtool
 licenses
@@ -99,7 +97,6 @@ sed
 shadow
 skype
 slim
-steam
 sudo
 sysfsutils
 systemd-sysvcompat
