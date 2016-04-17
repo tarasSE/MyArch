@@ -30,8 +30,6 @@ flashplugin
 flex
 garcon
 gawk
-gcc
-gcc-libs
 gedit
 gettext
 git
