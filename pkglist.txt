@@ -116,6 +116,7 @@ vlc
 volumeicon
 wget
 which
+wine
 wpa_actiond
 wpa_supplicant
 xarchiver
