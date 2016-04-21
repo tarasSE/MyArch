@@ -3,6 +3,7 @@ arandr
 autoconf
 automake
 bash
+bbswitch
 beaver
 binutils
 bison
@@ -52,7 +53,7 @@ jfsutils
 less
 lib32-gtk2
 lib32-nss
-lib32-nvidia-libgl
+lib32-virtualgl
 libreoffice-still
 libtool
 licenses
