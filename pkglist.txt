@@ -83,6 +83,7 @@ pcmciautils
 pcurses
 perl
 pkg-config
+postgresql
 procps-ng
 psmisc
 pulseaudio
