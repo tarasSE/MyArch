@@ -51,6 +51,7 @@ iw
 jdk8-openjdk
 jfsutils
 less
+lib32-alsa-plugins
 lib32-gtk2
 lib32-nss
 lib32-virtualgl
