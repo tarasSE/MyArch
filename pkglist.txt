@@ -111,6 +111,7 @@ texinfo
 thunar
 thunar-archive-plugin
 thunar-volman
+traceroute
 tumbler
 udiskie
 unrar
