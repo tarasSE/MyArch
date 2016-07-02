@@ -30,6 +30,7 @@ findutils
 firefox
 flashplugin
 flex
+fluidsynth
 garcon
 gawk
 gedit
