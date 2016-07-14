@@ -68,6 +68,7 @@ m4
 make
 man-db
 man-pages
+mariadb
 maven
 mdadm
 mesa-demos
