@@ -76,6 +76,8 @@ nautilus
 netctl
 network-manager-applet
 networkmanager
+nodejs
+npm
 ntp
 nvidia
 openal
@@ -104,6 +106,7 @@ sed
 shadow
 skype
 slim
+subversion
 sudo
 sysfsutils
 systemd-sysvcompat
