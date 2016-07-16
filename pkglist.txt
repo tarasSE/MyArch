@@ -74,6 +74,7 @@ mdadm
 mesa-demos
 nano
 nautilus
+nedit
 netctl
 network-manager-applet
 networkmanager
