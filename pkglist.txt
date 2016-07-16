@@ -4,7 +4,6 @@ autoconf
 automake
 bash
 bbswitch
-beaver
 binutils
 bison
 bumblebee
