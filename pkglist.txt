@@ -55,6 +55,7 @@ jfsutils
 less
 lib32-alsa-plugins
 lib32-gtk2
+lib32-gtk3
 lib32-nss
 lib32-virtualgl
 libreoffice-still
