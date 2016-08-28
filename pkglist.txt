@@ -73,6 +73,7 @@ mariadb
 maven
 mdadm
 mesa-demos
+mtools
 nano
 nautilus
 nedit
