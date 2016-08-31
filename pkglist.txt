@@ -47,8 +47,10 @@ gtk-xfce-engine
 guake
 gzip
 inetutils
+intltool
 iproute2
 iputils
+itstool
 iw
 jdk8-openjdk
 jfsutils
@@ -139,6 +141,7 @@ wpa_supplicant
 xarchiver
 xf86-input-synaptics
 xf86-video-intel
+xfburn
 xfce4-appfinder
 xfce4-mixer
 xfce4-panel
